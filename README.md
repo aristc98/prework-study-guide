@@ -1,6 +1,7 @@
-# <Prework-Study-Guide>
+# <PreworkStudyGuide>
 
-## I created this study guide to help new bootcamp students with all the new information they will be taking in. The guide contains notes for HTML, CSS, Git, and JavaScript.
+## Description
+ I created this study guide to help new bootcamp students with all the new information they will be taking in. The guide contains notes for HTML, CSS, Git, and JavaScript.
 
 ## Installation
 
